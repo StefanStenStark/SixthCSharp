@@ -79,6 +79,8 @@ To add xUnit:
 
 dotnet new xunit -o Tests/Backend.Tests
 
-dotnet sln add Tests/Backend.Tests.csproj
+dotnet sln add Tests/Backend.Tests/Backend.Tests.csproj
 
-dotnet add Tests/Backend.Tests.csproj reference Backend/Backend.csproj
+
+dotnet add Tests/Backend.Tests/Backend.Tests.csproj reference Backend/SixthCSharp.csproj
+

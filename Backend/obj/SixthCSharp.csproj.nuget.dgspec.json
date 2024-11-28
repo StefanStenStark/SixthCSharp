@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\backend\\SixthCSharp.csproj": {}
+    "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\Backend\\SixthCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\backend\\SixthCSharp.csproj": {
+    "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\Backend\\SixthCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\backend\\SixthCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\Backend\\SixthCSharp.csproj",
         "projectName": "SixthCSharp",
-        "projectPath": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\backend\\SixthCSharp.csproj",
+        "projectPath": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\Backend\\SixthCSharp.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\backend\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config"

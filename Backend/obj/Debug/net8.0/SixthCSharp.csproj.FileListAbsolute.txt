@@ -107,3 +107,4 @@ C:\Users\stefa\Code\PGP\TrainingSEB\SixthCSharp\backend\obj\Debug\net8.0\refint\
 C:\Users\stefa\Code\PGP\TrainingSEB\SixthCSharp\backend\obj\Debug\net8.0\SixthCSharp.pdb
 C:\Users\stefa\Code\PGP\TrainingSEB\SixthCSharp\backend\obj\Debug\net8.0\SixthCSharp.genruntimeconfig.cache
 C:\Users\stefa\Code\PGP\TrainingSEB\SixthCSharp\backend\obj\Debug\net8.0\ref\SixthCSharp.dll
+C:\Users\stefa\Code\PGP\TrainingSEB\SixthCSharp\Backend\obj\Debug\net8.0\SixthCSharp.sourcelink.json

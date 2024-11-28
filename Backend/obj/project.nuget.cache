@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJQ7SlW+Ozw=",
+  "dgSpecHash": "XBTmjOscieU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\backend\\SixthCSharp.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\Code\\PGP\\TrainingSEB\\SixthCSharp\\Backend\\SixthCSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.10\\microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
