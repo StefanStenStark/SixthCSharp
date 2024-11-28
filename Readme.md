@@ -74,3 +74,11 @@ dotnet ef database update
 
 
 API with DB up and running :) Gj! 
+
+To add xUnit:
+
+dotnet new xunit -o Tests/Backend.Tests
+
+dotnet sln add Tests/Backend.Tests.csproj
+
+dotnet add Tests/Backend.Tests.csproj reference Backend/Backend.csproj
